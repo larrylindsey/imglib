@@ -42,7 +42,7 @@ import java.util.ArrayList;
 import net.imglib2.EuclideanSpace;
 
 /**
- * A {@code CombinedSpace} is {@link EuclideanSpace} (specifically a
+ * A {@code CombinedSpace} is a {@link EuclideanSpace} (specifically a
  * {@link TypedSpace}) which is a union of other {@link TypedSpace}s. Common
  * axes are merged as appropriate by matching the {@link AxisType}s of each
  * {@link TypedAxis}.

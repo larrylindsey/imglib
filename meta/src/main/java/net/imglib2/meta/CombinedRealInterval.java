@@ -43,7 +43,7 @@ import net.imglib2.RealInterval;
 import net.imglib2.RealPositionable;
 
 /**
- * A {@code CombinedRealInterval} is {@link RealInterval} (specifically a
+ * A {@code CombinedRealInterval} is a {@link RealInterval} (specifically a
  * {@link TypedRealInterval}) which is a union of other
  * {@link TypedRealInterval}s. Dimensions with the same {@link AxisType} are
  * combined; see {@link CombinedSpace} for further details.
