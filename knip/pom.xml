@@ -19,7 +19,31 @@
 			<artifactId>imglib2</artifactId>
 			<version>${project.version}</version>
 		</dependency>
-
+                <dependency>
+                        <groupId>net.imglib2</groupId>
+                        <artifactId>imglib2-ops</artifactId>
+                        <version>${imglib2.version}</version>
+                </dependency>
+                <dependency>
+                        <groupId>net.imglib2</groupId>
+                        <artifactId>imglib2-algorithms</artifactId>
+                        <version>${imglib2.version}</version>
+                </dependency>
+                <dependency>
+                        <groupId>net.imglib2</groupId>
+                        <artifactId>imglib2-algorithms-legacy</artifactId>
+                        <version>${imglib2.version}</version>
+                </dependency>
+                <dependency>
+                        <groupId>net.imglib2</groupId>
+                        <artifactId>imglib2-algorithms-gpl</artifactId>
+                        <version>${imglib2.version}</version>
+                </dependency>
+                <dependency>
+                        <groupId>net.imglib2</groupId>
+                        <artifactId>imglib2-realtransform</artifactId>
+                        <version>${imglib2.version}</version>
+                </dependency>
 		<dependency>
 			<groupId>${bio-formats.groupId}</groupId>
 			<artifactId>loci-common</artifactId>
@@ -35,6 +59,23 @@
 			<artifactId>scifio</artifactId>
 			<version>${bio-formats.version}</version>
 		</dependency>
+                <dependency>
+                        <groupId>mpicbg</groupId>
+                        <artifactId>mpicbg</artifactId>
+                        <version>${mpicbg.version}</version>
+                </dependency>
+		<dependency>
+			<groupId>org.eclipse.core</groupId>
+			<artifactId>org.eclipse.core.runtime</artifactId>
+			<version>[3.6.0,)</version>
+		</dependency>
+		<dependency>
+			<groupId>org.apache.mahout</groupId>
+			<artifactId>mahout-math</artifactId>
+			<version>0.7</version>
+		</dependency>
+            
+
 
 		<dependency>
 			<groupId>org.slf4j</groupId>
@@ -48,6 +89,17 @@
 			<artifactId>junit</artifactId>
 			<version>4.8.1</version>
 			<scope>test</scope>
+		</dependency>
+
+		<dependency>
+			<groupId>org.apache.commons</groupId>
+			<artifactId>commons-math3</artifactId>
+			<version>3.0</version>
+		</dependency>
+		<dependency>
+			<groupId>commons-codec</groupId>
+			<artifactId>commons-codec</artifactId>
+			<version>1.4</version>
 		</dependency>
 	</dependencies>
 
