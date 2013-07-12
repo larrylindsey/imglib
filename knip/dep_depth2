@@ -1,0 +1,14 @@
+/nfs/data0/home/larry/code/fiji/modules/imglib/knip/src/main/java/org/knime/knip/core/algorithm/convolvers/DirectConvolver.java
+/nfs/data0/home/larry/code/fiji/modules/imglib/knip/src/main/java/org/knime/knip/core/algorithm/convolvers/ImgLib2IterativeConvolver.java
+/nfs/data0/home/larry/code/fiji/modules/imglib/knip/src/main/java/org/knime/knip/core/features/fd/FDCentralDistanceFeatureSet.java
+/nfs/data0/home/larry/code/fiji/modules/imglib/knip/src/main/java/org/knime/knip/core/features/fd/FDComplexCoordinatesFeatureSet.java
+/nfs/data0/home/larry/code/fiji/modules/imglib/knip/src/main/java/org/knime/knip/core/features/seg/FirstOrderMomentsFeatureSet.java
+/nfs/data0/home/larry/code/fiji/modules/imglib/knip/src/main/java/org/knime/knip/core/features/seg/TamuraFeatureSet.java
+/nfs/data0/home/larry/code/fiji/modules/imglib/knip/src/main/java/org/knime/knip/core/ui/imgviewer/annotator/AnnotatorToolbar.java
+/nfs/data0/home/larry/code/fiji/modules/imglib/knip/src/main/java/org/knime/knip/core/ui/imgviewer/annotator/events/AnnotatorToolChgEvent.java
+/nfs/data0/home/larry/code/fiji/modules/imglib/knip/src/main/java/org/knime/knip/core/ui/imgviewer/annotator/tools/AnnotatorFreeFormTool.java
+/nfs/data0/home/larry/code/fiji/modules/imglib/knip/src/main/java/org/knime/knip/core/ui/imgviewer/annotator/tools/AnnotatorNoTool.java
+/nfs/data0/home/larry/code/fiji/modules/imglib/knip/src/main/java/org/knime/knip/core/ui/imgviewer/annotator/tools/AnnotatorPointTool.java
+/nfs/data0/home/larry/code/fiji/modules/imglib/knip/src/main/java/org/knime/knip/core/ui/imgviewer/annotator/tools/AnnotatorSplineTool.java
+/nfs/data0/home/larry/code/fiji/modules/imglib/knip/src/main/java/org/knime/knip/core/ui/imgviewer/panels/providers/LabelingBufferedImageProvider.java
+/nfs/data0/home/larry/code/fiji/modules/imglib/knip/src/main/java/org/knime/knip/core/ui/imgviewer/ViewerComponents.java
